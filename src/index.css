@@ -104,3 +104,37 @@ li{
   margin: 45px 0;
   border-color: #56190C;
 }
+
+/* Checkout */
+
+.section {
+  width: 100%;
+  padding: 50px 0px;
+  border-color: #FBA350;
+}
+.photo {
+  width: 950px;
+  max-width: 50%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.dp{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+/* Checkout forms */
+.coffee {
+  height: 100px;
+  width: 100px;
+}
+
+.concept{
+  background: linear-gradient(135deg, #fce6c3, #873e23);
+  width: 100%;
+  padding: 40px 0px;
+}
+

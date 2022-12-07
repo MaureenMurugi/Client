@@ -29,7 +29,7 @@ function Review() {
 
             <form id="my-form">
                 <div className="contact-head">
-                  <textarea value={formData.review} onChange={handleChange} id="message" cols="60" rows="6" placeholder="Review.." required></textarea>
+                  <textarea onChange={handleChange} id="message" cols="60" rows="6" placeholder="Review.." required></textarea>
                 </div>
                 <div className="button-form">
                     <button onClick={handleSubmit} className="register">Post</button>
