@@ -2,7 +2,7 @@
 
 function Checkout() {
     return (
-        <h1>Hey</h1>
+   <h>hey</h>
     )
 }
 

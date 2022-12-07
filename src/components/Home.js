@@ -1,8 +1,9 @@
-
+import  Review  from "../components/Review"
 
 function Home() {
     return (
-       <div className="projects">
+        <>
+         <div className="projects">
            <div className="title">
                <h2 className="projo">Does this work</h2>
            </div>
@@ -26,6 +27,12 @@ function Home() {
                </div>
            </div>
        </div>
+
+       <Review/>
+        </>
+      
+
+       
     )
 }
 

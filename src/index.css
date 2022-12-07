@@ -91,3 +91,16 @@ li{
   width: 225px;
 
 }
+
+/* Review */
+
+.container-fluid{
+  padding: 20px;
+  background: linear-gradient(135deg, #ffffff, #fce6c3);
+}
+
+.register {
+  height: 45px;
+  margin: 45px 0;
+  border-color: #56190C;
+}
